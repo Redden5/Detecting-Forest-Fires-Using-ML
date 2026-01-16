@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['fire']
+
+roboflow:
+  workspace: mini-z0ruz
+  project: wildfire-yh86l
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mini-z0ruz/wildfire-yh86l/dataset/1

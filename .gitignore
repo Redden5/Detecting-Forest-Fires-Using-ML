@@ -1,0 +1,3 @@
+# Large data files
+data/*.geojson
+Data/California_Historic_Fire_Perimeters.geojson
