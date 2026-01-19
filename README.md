@@ -29,7 +29,7 @@ Methodolgy
     - Percision / Recall
     - F1-score
     -ROC-AUC
--Technology Used
+- Technology Used
     - Python
     - Numpy / Pandas
     - Scikit-learn
